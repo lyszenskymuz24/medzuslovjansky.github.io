@@ -122,6 +122,10 @@ Like many other large language families, the Slavic languages have inspired lang
 69. [Новословница][50] (:notr[Новославянский язык]) (2014) by Egor A. Karpov, a project clearly motivated by Pan-Slavism, characterized among other things by a highly archaic orthography (Cyrillic only) and linguistic purism. Sample: _":notr[Данный пројект има цѣль зтвораня возможності корыстованя обчіословѣнскога јазыка за донесеня информації и розвôја ґо. Второю целію јѧвляје сѧ зтворане преводца, якый би могнал преводити теќты меџу всѣми словѣнскыми јазыками.]"_
 70. [Novoslavski][51] (2014) by Robert F. Hancock. Based on Interslavic and practically identical to it, except for some spelling issues and grammatical endings. Sample: _":notr[Jestli ona znala gdje vy živete, može ona davno byst prihodila. / Ѣстли она знала гдѣ вы живете, може она давно быст приходила.]"_
 71. [Slovenska nova lingvafranka][52] (**Snolin, SNL**) (2018) by Hellerick, described by its author as "an interslavic creol conlang (constructed language) based on romance conlang Lingua Franca Nova". Sample: _":notr[Vse-slovenska barvi je czervena, bela i nebesna, koja je na znameni od mnoga slovenska derzsavi i narodi. Ih simboluva jedenota od slovenska narodi.]"_
+72. [Lyšeňsky Język] (2020) by Rylan Horning, described by its author as a constructed auxiliary language or lingua franca between West Slavic languages, which combines the grammar and vocabulary of these languages. Sample: [Ôjtče náš który jest v niêbie, pôsvięť się jmię Tvoje, pržyjď králiestvo Tvoje
+Bųď vôlia Tvoja jáko v niêbie, ták áj ná ziêmi.Chlieb nášého káždodienny Dáj nám dniêś, a ôdpusť nám náše viny jáko my ôdpustiámo nášym vinovájcom. A nieveď nás dô pokušenie, ále zbav nás źlého. Vo Tvoje jest králiestvo, a môc, a sláva návždy
+Amiň]
+
 
 ## Examples: \{#examples}
 
@@ -243,3 +247,4 @@ _See: [Publications about Interslavic][55]_
 [54]: ../misc/pan-slavic-relay.md
 
 [55]: http://steen.free.fr/interslavic/publications.html
+[56]:https://sites.google.com/d/1v1M2boSdkVPhZgKh5GCmVGJG1mew7quy/p/16dFqDYT9LIBnzghJJuewPvYDPfyCQk1J/edit
